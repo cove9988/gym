@@ -21,7 +21,7 @@ An episode ends when:
 
 Reward schedule:
     write a correct character: +1
-    write a wrong character: -.5
+    write a wrong character: -0.5
     run out the clock: -1
     otherwise: 0
 
